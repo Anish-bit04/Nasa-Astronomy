@@ -1,0 +1,20 @@
+.date{
+   font-size: 9px;
+}
+
+.title{
+    margin-bottom: 10px;
+}
+.image{
+   margin-top: 10px;
+}
+
+.explanation{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #f2f2f2;
+
+
+}
